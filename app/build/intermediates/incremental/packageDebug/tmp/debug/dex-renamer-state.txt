@@ -1,0 +1,4 @@
+#Fri Apr 30 02:53:43 EDT 2021
+base.0=E\:\\TictacToe2\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
